@@ -1,11 +1,5 @@
 # Credit Card Spending Analysis
 
-### Created and Analyzed by: Saddam Ansari @Aspiring Data Analyst [LinkedIn](https://www.linkedin.com/in/saddam-ansari-dataanalyst/)
-### Live Dashboard At Novypro [Link](https://www.novypro.com/create_project/credit-card-spending-analysis-by-saddam-ansari)
-
-
-✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
-
 ## Project Objective:
 
 The objective of this Power BI dashboard is to analyze the dataset and generate a comprehensive report aimed at facilitating strategic decision-making for stakeholders. 
@@ -62,8 +56,6 @@ Here's a description of the data fields in the provided customer dataset:
  * Income: Annual income of the customer.
  * Cust_Satisfaction_Score: Customer satisfaction score, possibly based on feedback or surveys.
 
-✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
-
 ## Dashboard Overview:
 
 The Power BI dashboard comprises two distinct pages, each serving a specific purpose in alignment with the project request:
@@ -74,7 +66,6 @@ This page offers an in-depth portrayal of customers' demographic attributes.
 #### 2.Customers Transaction Page:
 The second page of the dashboard is dedicated to presenting customer transaction data.
 
-✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
 
 ## Detailed Explanation:
 
@@ -227,27 +218,4 @@ Business ownrs and white-collar jobholders seem to generate the highest revenue.
  * Personalized Offers and Recommendations: Leverage data analytics to provide personalized offers and recommendations based on customers' transaction history, preferences, and life stage to increase engagement and cross-selling opportunities.
  * Customer Retention Strategies: Implement customer retention strategies such as loyalty programs, personalized communications, and proactive customer service to foster long-term relationships and reduce churn.
 
-By targeting these specific customer segments and implementing the recommended strategies, we can aim for sustainable revenue growth and enhanced customer satisfaction in the long run.
-
-✨✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨✨
-
-**Don't forget to give a start to this project because its motivate me and also please follow me on [Linkeldin](https://www.linkedin.com/in/saddam-ansari-dataanalyst/). and Please consider me for any internship or entry level data analyst role. I need a job or internship even thought its a free or paid. Thanks in Advance.**
-
-#
-
-### How Can You Help Me
- * First and foremost, your appreciation and endorsement of this project mean the world to me. If you have any recommendations or suggestions, please feel free to share them with me. Your input can immensely assist me in refining and improving this project further.
-
- * Additionally, I have worked on over **40 projects**, which you can explore on my [portfolio at Novypro](https://www.novypro.com/profile_projects/saddamansari). If you believe that my skills align with your requirements, I would be grateful if you could recommend me on [LinkedIn](https://www.linkedin.com/in/saddam-ansari-dataanalyst/).
-
- * As I am currently seeking internship or entry-level positions, your support and assistance would be invaluable to me. I assure you of my gratitude for any help extended.
-
-I hope you found this project enjoyable and insightful.😊😊
-
-#
-
-Created & Presented by -Saddam Ansari @ Aspiring Data Analyst
-
-Date- 03/01/2024
-
-Place- Bihar, India
+By targeting these specific customer segments and implementing the recommended strategies, we can aim for sustainable revenue growth and enhanced customer satisfaction in the long run
